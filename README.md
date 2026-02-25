@@ -14,7 +14,7 @@ I design and engineer production-ready web systems and AI-driven solutions. From
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=j00zf&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=j00zf&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=j00zf&theme=juicyfresh&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=j00zf&icon=0&color=2)](https://visitcount.itsvg.in)

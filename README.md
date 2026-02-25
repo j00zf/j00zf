@@ -10,7 +10,7 @@ I design and engineer production-ready web systems and AI-driven solutions. From
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=j00zf&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=j00zf&theme=tokyonight&hide_border=true%22%20height=%22170)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=j00zf&theme=tokyonight&hide_border=flase%22%20height=%22170)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=j00zf&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ##  GitHub Trophies

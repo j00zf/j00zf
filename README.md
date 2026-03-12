@@ -11,8 +11,7 @@ I design and engineer production-ready web systems and AI-driven solutions. From
 # GitHub Stats:<p align="center">
   
 <!--<img src="https://github-readme-stats.vercel.app/api?username=j00zf&theme=tokyonight&show_icons=true&hide_border=true" height="170"/> -->
-  <img src="https://streak-stats.demolab.com?user=j00zf&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+  <img src="https://streak-stats.demolab.com?user=j00zf&theme=tokyonight&hide_border=true" height="17
 
 
 <!--<p align="center">
